@@ -26,7 +26,7 @@ authentication method:
 ```
 App Token (Server Authentication)
 ```
-[https://developer.box.com/guides/authentication/app-token/](More detail here)
+[More details here](https://developer.box.com/guides/authentication/app-token/)
 
 Then you must create a subfolder inside the main root and share it with the service account created
 during app creation process. (you can find this info in: *general settings > Service account info*)
